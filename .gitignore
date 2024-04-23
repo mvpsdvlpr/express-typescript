@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Compiled TypeScript
+/dist
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jest coverage
+coverage/
+
+# npm package locks
+package-lock.json
